@@ -1,4 +1,4 @@
-package org.teazos.demo;
+package org.teazos.demo.mail;
 
 /**
  * Created by mijunfeng on 16/5/6.
